@@ -1,6 +1,7 @@
 /*
 단순한 bfs 문제다.
 */
+
 #include <algorithm>
 
 class Solution
