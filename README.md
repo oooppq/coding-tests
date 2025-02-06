@@ -15,3 +15,4 @@
 | 2024-02-03 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | Easy   | C++  | [풀이](leetcode/3105.cpp) | O         |
 | 2024-02-04 | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/)                                                           | Easy   | C++  | [풀이](leetcode/1800.cpp) | O         |
 | 2024-02-05 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)                         | Easy   | C++  | [풀이](leetcode/1790.cpp) | O         |
+| 2024-02-06 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)                                                                         | Medium | C++  | [풀이](leetcode/1726.cpp) | O         |
