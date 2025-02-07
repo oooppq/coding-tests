@@ -16,3 +16,4 @@
 | 2024-02-04 | [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/)                                                           | Easy   | C++  | [풀이](leetcode/1800.cpp) | O         |
 | 2024-02-05 | [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)                         | Easy   | C++  | [풀이](leetcode/1790.cpp) | O         |
 | 2024-02-06 | [1726. Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/)                                                                         | Medium | C++  | [풀이](leetcode/1726.cpp) | O         |
+| 2024-02-07 | [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)                   | Medium | C++  | [풀이](leetcode/3160.cpp) | O         |
