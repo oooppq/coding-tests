@@ -5,6 +5,11 @@
     "**/templates/**/*": "django-txt",
     "**/requirements{/**,*}.{txt,in}": "pip-requirements",
     "__hash_table": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "string": "cpp",
+    "iosfwd": "cpp",
+    "string_view": "cpp",
+    "__string": "cpp",
+    "bitset": "cpp"
   }
 }

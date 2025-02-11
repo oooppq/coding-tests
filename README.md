@@ -19,3 +19,4 @@
 | 2024-02-07 | [3160. Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)                   | Medium | C++  | [풀이](leetcode/3160.cpp) | O         |
 | 2024-02-10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/)                                                                                               | Easy   | C++  | [풀이](leetcode/3174.cpp) | O         |
 | 2024-02-10 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)                                                                     | Medium | C++  | [풀이](leetcode/2364.cpp) | X         |
+| 2024-02-11 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                                             | Medium | C++  | [풀이](leetcode/1910.cpp) | X         |
