@@ -20,3 +20,4 @@
 | 2024-02-10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/)                                                                                               | Easy   | C++  | [풀이](leetcode/3174.cpp) | O         |
 | 2024-02-10 | [2364. Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)                                                                     | Medium | C++  | [풀이](leetcode/2364.cpp) | X         |
 | 2024-02-11 | [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                                             | Medium | C++  | [풀이](leetcode/1910.cpp) | X         |
+| 2024-02-11 | [2342. Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/)                                   | Medium | C++  | [풀이](leetcode/2342.cpp) | O         |
