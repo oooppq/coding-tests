@@ -16,7 +16,6 @@ public:
             else
                 ret = max(ret, m - nums[i]);
         }
-
         return ret;
     }
 };
