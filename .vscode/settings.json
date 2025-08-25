@@ -18,6 +18,8 @@
         "vector": "cpp",
         "iterator": "cpp",
         "queue": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp"
     }
 }
